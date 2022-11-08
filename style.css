@@ -1,0 +1,10 @@
+.d1{background-color: darkcyan;
+color:black}
+
+.d2{background-color: rgb(128, 205, 205);}
+
+.newcol{color:rgb(34, 76, 76);
+    text-decoration-line: underline;
+    text-shadow: 2px 2px;}
+
+.new2{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
